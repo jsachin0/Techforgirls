@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Techforgirls/static/css/main.3b4e6cf7.css",
+    "main.js": "/Techforgirls/static/js/main.5fc05ffc.js",
+    "index.html": "/Techforgirls/index.html",
+    "main.3b4e6cf7.css.map": "/Techforgirls/static/css/main.3b4e6cf7.css.map",
+    "main.5fc05ffc.js.map": "/Techforgirls/static/js/main.5fc05ffc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b4e6cf7.css",
+    "static/js/main.5fc05ffc.js"
+  ]
+}
